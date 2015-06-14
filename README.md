@@ -1,2 +1,2 @@
 # openContacts
-ilk denemem
+PHP öğrenmek için ilk denemem
